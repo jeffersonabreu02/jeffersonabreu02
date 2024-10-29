@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou Jefferson, nascido em 11/06/1996, casado com Julie, que é o amor da minha vida
-- 🌱 Estudo python
-- 💻 Formação: técnico em informática
-- ✍🏻 Atualmente trabalho como escrevente no cartório da cidade onde moro
+- 🌱 Estudante python
+- 💻 Formação: técnico em informática, técnico em secretariado
 - 🏠 No momento moro em Varre-Sai/RJ
 ##
 <div>
